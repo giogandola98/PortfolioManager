@@ -10,7 +10,7 @@ A public, free and open Portfolio Manager based on Python.
 <br>
 <h2>TODO PHASE 2</h2>
 <br>
-1-Create priceLink interface class
-2-Create at least 2 price links for stocks and bonds + ccy (currencyes) + crypto
-3-create an orchestrator for price update (on demand vs every X time vs every frontend update)
+1-Create priceLink interface class <br>
+2-Create at least 2 price links for stocks and bonds + ccy (currencyes) + crypto <br>
+3-create an orchestrator for price update (on demand vs every X time vs every frontend update) <br>
 
