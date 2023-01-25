@@ -1,11 +1,15 @@
 # PortfolioManager
 A public, free and open Portfolio Manager based on Python.
 
+<h2>TODO PHASE 0</H2><br>
+1-E/R for database<br>
+2-class interaction diagram and specs <br>
+3-Design patterns to apply <br>
+4-Solution project <br><br>
 <h2>TODO PHASE 1</h2>
 <br>
 1-Create a database structure <br>
-2-build database and relationships <br>
-3-build python database wrapper class <br>
+2-build python database wrapper class <br>
 <br>
 <br>
 <h2>TODO PHASE 2</h2>
